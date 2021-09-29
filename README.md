@@ -4,7 +4,7 @@
 - To get hands on experience with huge datasets using detailed Exploratory Data Analysis.
 - To learn preparing presentations based on the analysis done, to present them to the Business.
            
-- This was a group case study , done as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
+- This was a group case study (Group members - <a href="https://github.com/satvikcode">Satvik Yadav</a>, <a href = "https://github.com/AntaraChat">Antara Chatterji</a> ) ; done as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
 
 <img src="https://image.shutterstock.com/image-vector/financial-crisis-vector-bank-building-260nw-1731124375.jpg"  align= "right"></img>
 
