@@ -17,7 +17,12 @@ This case study aims to give an idea of applying EDA in a real business scenario
 This case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
-
+# Final Conclusions:
+- While giving loans, Bank can consider Commercial Associate/State Servant/Student NAME_INCOME_TYPE as they mostly pay back the loan.
+- Bank can also consider Working NAME_INCOME_TYPE in some purposes like 'Buying a new car' ,'Buying a holiday home/land' as they have very small chance of being a defaulter.
+- Though 'Repair' Purpose have higher chance of loan repayment, but they also have highest chance of being a defaulter. So, bank should be more cautious in paying the loan for 'Repair' Purpose.
+- Bank can consider giving loan to Housing type - With Parents, as they are likely to give loan payment.
+- Bank should get as many customers for loan with purpose 'Buying a home' and income type State Servant, as they are very likely to pay the loan.
                    
 # Important Points to remember while solving the Assignment :
 - The commands are syntactically correct.
@@ -30,11 +35,5 @@ In other words, the company wants to understand the driving factors (or driver v
 - Charts are neatly formatted including proper chart sizes, annotations(if required) and labelling.
 - Mention the inferences for each of the graphs after thoroughly inspecting them.
 
-# Final Conclusions:
-- While giving loans, Bank can consider Commercial Associate/State Servant/Student NAME_INCOME_TYPE as they mostly pay back the loan.
-- Bank can also consider Working NAME_INCOME_TYPE in some purposes like 'Buying a new car' ,'Buying a holiday home/land' as they have very small chance of being a defaulter.
-- Though 'Repair' Purpose have higher chance of loan repayment, but they also have highest chance of being a defaulter. So, bank should be more cautious in paying the loan for 'Repair' Purpose.
-- Bank can consider giving loan to Housing type - With Parents, as they are likely to give loan payment.
-- Bank should get as many customers for loan with purpose 'Buying a home' and income type State Servant, as they are very likely to pay the loan.
 
 
