@@ -1,6 +1,8 @@
 # Bank Loan Defaulter Case Study
 
-- Purpose : Exploratory Data Analysis on huge datasets
+- Purpose : - Exploratory Data Analysis on huge datasets.
+            - To learn preparing presentations based on the analysis done, to present them to the Business.
+           
 - This was a group case study , done as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
 
 <img src="https://image.shutterstock.com/image-vector/financial-crisis-vector-bank-building-260nw-1731124375.jpg"  align= "right"></img>
